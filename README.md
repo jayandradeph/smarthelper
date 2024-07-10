@@ -1,0 +1,2 @@
+# smarthelper
+Automate your thing!
